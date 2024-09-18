@@ -29,7 +29,7 @@
 </br>
 <div align="center">
 <samp>
-I am a creative🎡, hard working👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐 and strong organizational skills👮‍♀️.
+I am a creative🎡, hard working👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, strong communication skills👐 and strong organizational skills👮‍♀️. Writing code is my passion and it increase my dopamine level 😂.   
 </samp>
 </div>
   
