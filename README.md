@@ -57,6 +57,6 @@ I am a creative🎡, hard working👩‍🎓, dedicated🎯, goal-oriented indiv
  </br>
 </br>
  
-  ![Snake animation](https://github.com/aqib1/aqib1/blob/output/github-contribution-grid-snake.svg)
+  <img  src="snake.svg" alt="example" />
  
 </div>
