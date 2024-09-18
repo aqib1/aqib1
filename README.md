@@ -3,11 +3,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aqib1&label=Profile%20views&color=0e75b6&style=flat" alt="aqib1" /> </p>
 
+
+
  <div>
   <a href="https://github.com/aqib1">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib1&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aqib1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
+
  
  ## Skills
 <div style="display: inline_block"><br>
@@ -31,6 +34,20 @@
 <samp>
 I am a creative🎡, hard working👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, strong communication skills👐 and strong organizational skills👮‍♀️. Writing code is my passion and it increase my dopamine level 😂.   
 </samp>
+<br/>
+<br/>
+🔭 I’m currently working as Lead Software Engineer
+
+👨‍💻 All of my projects are available at [Github](http://github.com/aqib1)
+
+⭐ Checkout my Articles [Medium](https://medium.com/@aqibbutt3078)
+
+✨ My Robotic Work [4WD Robot](https://www.instructables.com/4WD-Robot-Controlled-by-Android-Detect-Hurdles/)
+
+🍀 Content Sentiment Analysis Using Standford NLP [LingoCraft](https://github.com/aqib1/LingoCraft)
+
+📫 How to reach me **aqibbutt3078@gmail.com**
+
 </div>
 
 ## Trophies  
