@@ -27,6 +27,11 @@
   
 </br>
 
+  <a href="https://github.com/RISHAB-CREATOR?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=aqib1&theme=radical" alt="aqib1" width="100%" /></a> </p>
+
+</br>
+
+
 ## Contact 
 <div> 
   <a href="https://www.linkedin.com/in/aqib-javed-44aab3106/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
