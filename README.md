@@ -1,6 +1,8 @@
 ## Hi, I am Aqib! 
 </br>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aqib1&label=Profile%20views&color=0e75b6&style=flat" alt="aqib1" /> </p>
+
  <div>
   <a href="https://github.com/aqib1">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib1&layout=compact&langs_count=16&theme=dracula"/>
@@ -9,33 +11,48 @@
  
  ## Skills
 <div style="display: inline_block"><br>
-  <img height="40" align="center" alt="Erica-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img height="40" align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
+  <img height="40" align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-plain.svg">
+  <img height="40" align="center" alt="Scala" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
+  <img height="40" align="center" alt="Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+<img height="40" align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
 
+</div>
+</br>
+<div align="center">
+<samp>
+I am a creative🎡, hard working👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐 and strong organizational skills👮‍♀️.
+</samp>
 </div>
   
 </br>
 
-  <a href="https://github.com/RISHAB-CREATOR?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=aqib1&theme=radical" alt="aqib1" width="100%" /></a> </p>
+  <a href="https://github.com/aqib1?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=aqib1&theme=radical" alt="aqib1" width="100%" /></a> </p>
 
 </br>
+
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aqib1&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="100%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqib1&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aqib1&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%">
+  <img src="https://streak-stats.demolab.com/?user=aqib1&theme=radical&hide_border=true" style="border: 1px solid white; border-radius: 5px; margin: 10px; height="100%"; width="98%">
+
+</div>
 
 
 ## Contact 
 <div> 
   <a href="https://www.linkedin.com/in/aqib-javed-44aab3106/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@aqibbutt3078" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href = "mailto: aqibbutt3078@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EC5800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
