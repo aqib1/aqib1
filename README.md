@@ -32,19 +32,23 @@
 I am a creative🎡, hard working👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, strong communication skills👐 and strong organizational skills👮‍♀️. Writing code is my passion and it increase my dopamine level 😂.   
 </samp>
 </div>
-  
+
+## Trophies  
 </br>
 
   <a href="https://github.com/aqib1?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=aqib1&theme=radical" alt="aqib1" width="100%" /></a> </p>
 
 </br>
 
+## Contributions
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aqib1&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="100%">
+ <h2> Statistics </h2>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqib1&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aqib1&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%">
-  <img src="https://streak-stats.demolab.com/?user=aqib1&theme=radical&hide_border=true" style="border: 1px solid white; border-radius: 5px; margin: 10px; height="100%"; width="98%">
+ <h2> Streaks </h2> 
+ <img src="https://streak-stats.demolab.com/?user=aqib1&theme=radical&hide_border=true" style="border: 1px solid white; border-radius: 5px; margin: 10px; height="100%"; width="98%">
 
 </div>
 
