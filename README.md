@@ -74,7 +74,9 @@ I am a creative🎡, hard working👩‍🎓, dedicated🎯, goal-oriented indiv
 <div> 
   <a href="https://www.linkedin.com/in/aqib-javed-44aab3106/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@aqibbutt3078" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+ <a href="https://codolio.com/profile/vs38jj1y" target="_blank"><img src="https://img.shields.io/badge/-Codolio-%23ce7e00?style=for-the-badge&logo=codolio&logoColor=white" target="_blank"></a>
   <a href = "mailto: aqibbutt3078@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EC5800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
  </br>
 </br>
  
