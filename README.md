@@ -7,6 +7,7 @@
 
  <div>
   <a href="https://github.com/aqib1">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib1&theme=xcode&hide_border=true" />
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib1&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aqib1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
