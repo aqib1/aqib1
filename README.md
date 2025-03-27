@@ -68,8 +68,7 @@ I am a creative🎡, hard working👩‍🎓, dedicated🎯, goal-oriented indiv
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqib1&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aqib1&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%">
  <h2> Streaks </h2> 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aqib1)](https://git.io/streak-stats)
-
+<img src="https://github-readme-stats.vercel.app/api?username=aqib1&show_icons=true&theme=transparent" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%">
 </div>
 
 
