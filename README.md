@@ -65,10 +65,12 @@ I am a creative🎡, hard working👩‍🎓, dedicated🎯, goal-oriented indiv
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aqib1&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="100%">
  <h2> Statistics </h2>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqib1&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aqib1&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%">
+ <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=aqib1&show_icons=true&theme=transparent" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%" height="100%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aqib1" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%" height="100%">
+ </div>
  <h2> Streaks </h2> 
-<img src="https://github-readme-stats.vercel.app/api?username=aqib1&show_icons=true&theme=transparent" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aqib1" alt="GitHub Streak" /></a>
 </div>
 
 
