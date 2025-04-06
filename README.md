@@ -7,9 +7,9 @@
 
  <div>
   <a href="https://github.com/aqib1">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib1&theme=xcode&hide_border=true" />
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib1&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aqib1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib1&theme=github&hide_border=true" />
+   <img align="center" height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib1&layout=compact&langs_count=16"/>
+   <img align="center" height="45%" src="https://github-readme-stats.vercel.app/api?username=aqib1&show_icons=true&theme=transparent" style="border: 1px solid white; border-radius: 5px;">
 </div>
 
  
@@ -35,11 +35,11 @@
 </br>
 <div align="center">
 <samp>
-I am a creative🎡, hard working👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, strong communication skills👐 and strong organizational skills👮‍♀️. Writing code is my passion and it increase my dopamine level 😂.   
+I am a creative🎡, hard working👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, strong communication skills👐 and strong organizational skills👮‍♀️. Writing code is my passion and it increases my dopamine level 😂.   
 </samp>
 <br/>
 <br/>
-🔭 I’m currently working as Lead Software Engineer
+🔭 I’m currently working as a Lead Software Engineer
 
 👨‍💻 All of my projects are available at [Github](http://github.com/aqib1)
 
@@ -64,11 +64,6 @@ I am a creative🎡, hard working👩‍🎓, dedicated🎯, goal-oriented indiv
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aqib1&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="100%">
- <h2> Statistics </h2>
- <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqib1&show_icons=true&theme=transparent" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%" height="100%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aqib1" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%" height="100%">
- </div>
  <h2> Streaks </h2> 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aqib1" alt="GitHub Streak" /></a>
 </div>
