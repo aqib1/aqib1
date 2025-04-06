@@ -56,16 +56,17 @@ I am a creative🎡, hard working👩‍🎓, dedicated🎯, goal-oriented indiv
 ## Trophies  
 </br>
 
-  <a href="https://github.com/aqib1?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=aqib1&theme=radical" alt="aqib1" width="100%" /></a> </p>
+  <a href="https://github.com/aqib1?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=aqib1" alt="aqib1" width="100%" /></a> </p>
 
 </br>
 
 ## Contributions
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aqib1&theme=2077" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aqib1&theme=transparent" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="100%">
  <h2> Streaks </h2> 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aqib1" alt="GitHub Streak" /></a>
+  <a href="https://github.com/aqib1"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aqib1&theme=transparent" alt="GitHub Streak" /></img></a>
 </div>
 
 
@@ -74,7 +75,7 @@ I am a creative🎡, hard working👩‍🎓, dedicated🎯, goal-oriented indiv
   <a href="https://www.linkedin.com/in/aqib-javed-44aab3106/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@aqibbutt3078" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
  <a href="https://codolio.com/profile/vs38jj1y" target="_blank"><img src="https://img.shields.io/badge/-Codolio-%23ce7e00?style=for-the-badge&logo=codolio&logoColor=white" target="_blank"></a>
-  <a href = "mailto: aqibbutt3078@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EC5800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto: aqibbutt3078@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EC5800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  </br>
 </br>
