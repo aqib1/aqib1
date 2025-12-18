@@ -53,20 +53,15 @@ I am a creative🎡, hard working👩‍🎓, dedicated🎯, goal-oriented indiv
 
 </div>
 
-## Trophies  
-</br>
-
-  <a href="https://github.com/aqib1?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=aqib1" alt="aqib1" width="100%" /></a> </p>
-
-</br>
-
 ## Contributions
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aqib1&theme=transparent" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="100%">
- <h2> Streaks </h2> 
+ </div>
+
+## Streaks
+ <div>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aqib1" alt="GitHub Streak" /></a>
-  <a href="https://github.com/aqib1"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aqib1&theme=transparent" alt="GitHub Streak" /></img></a>
 </div>
 
 
