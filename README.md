@@ -61,7 +61,7 @@ I am a creative🎡, hard working👩‍🎓, dedicated🎯, goal-oriented indiv
 
 ## Streaks
  <div>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aqib1" alt="GitHub Streak" /></a>
+  <a href="https://github.com/aqib1"><img src="https://streak-stats.demolab.com?user=aqib1" alt="GitHub Streak" /></a>
 </div>
 
 
